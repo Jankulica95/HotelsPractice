@@ -1,0 +1,292 @@
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Hoteli.dll.config
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Hoteli.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Hoteli.pdb
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\csc.exe
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\csc.exe.config
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\csc.rsp
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\csi.exe
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\csi.exe.config
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\csi.rsp
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.AppContext.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Console.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.IO.Compression.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Net.Http.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Net.Sockets.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.ValueTuple.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\vbc.exe
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\vbc.exe.config
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\vbc.rsp
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\VBCSCompiler.exe
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Antlr3.Runtime.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\AutoMapper.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Castle.Core.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\EntityFramework.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\EntityFramework.SqlServer.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Moq.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Newtonsoft.Json.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Owin.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Net.Http.Formatting.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Cors.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Helpers.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.Cors.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.Owin.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.Tracing.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.WebHost.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Mvc.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Optimization.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Razor.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.WebPages.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.WebPages.Razor.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\WebGrease.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\AutoMapper.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Castle.Core.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Moq.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.Cors.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.Tracing.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Newtonsoft.Json.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Net.Http.Formatting.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Helpers.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.WebHost.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Mvc.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Optimization.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Razor.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.WebPages.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.WebPages.Razor.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Antlr3.Runtime.pdb
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\EntityFramework.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\EntityFramework.SqlServer.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\System.Web.Http.Owin.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.FirstMigration.resources
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.SecondMigration.resources
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.ThirdMigartion.resources
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.FourthMigration.resources
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.csproj.GenerateResource.cache
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.csproj.CoreCompileInputs.cache
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.csproj.CopyComplete
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.dll
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.pdb
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.csproj.AssemblyReference.cache
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.FifthMigration.resources
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Hoteli.dll.config
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Hoteli.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Hoteli.pdb
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\csc.exe
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\csc.exe.config
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\csc.rsp
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\csi.exe
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\csi.exe.config
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\csi.rsp
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.AppContext.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Collections.Immutable.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Console.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Globalization.Calendars.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.IO.Compression.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.IO.FileSystem.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Net.Http.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Net.Sockets.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Reflection.Metadata.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.ValueTuple.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Xml.XPath.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\vbc.exe
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\vbc.exe.config
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\vbc.rsp
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\VBCSCompiler.exe
+D:\FinalniTestovi\Hoteli\Hoteli\bin\roslyn\VBCSCompiler.exe.config
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Antlr3.Runtime.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\AutoMapper.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Castle.Core.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\EntityFramework.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\EntityFramework.SqlServer.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Google.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Practices.ServiceLocation.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Web.Infrastructure.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Moq.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Newtonsoft.Json.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Owin.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Net.Http.Formatting.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Threading.Tasks.Extensions.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Cors.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Helpers.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.Cors.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.Owin.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.Tracing.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.WebHost.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Mvc.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Optimization.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Razor.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.WebPages.Deployment.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.WebPages.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.WebPages.Razor.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\WebGrease.dll
+D:\FinalniTestovi\Hoteli\Hoteli\bin\AutoMapper.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Castle.Core.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Practices.ServiceLocation.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Moq.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Threading.Tasks.Extensions.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.Cors.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.Tracing.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Newtonsoft.Json.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Net.Http.Formatting.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Helpers.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.WebHost.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Mvc.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Optimization.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Razor.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.WebPages.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.WebPages.Deployment.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.WebPages.Razor.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Antlr3.Runtime.pdb
+D:\FinalniTestovi\Hoteli\Hoteli\bin\EntityFramework.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\EntityFramework.SqlServer.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Google.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\System.Web.Http.Owin.xml
+D:\FinalniTestovi\Hoteli\Hoteli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.csproj.AssemblyReference.cache
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.FirstMigration.resources
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.SecondMigration.resources
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.ThirdMigartion.resources
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.FourthMigration.resources
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.Migrations.FifthMigration.resources
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.csproj.GenerateResource.cache
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.csproj.CoreCompileInputs.cache
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.csproj.CopyComplete
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.dll
+D:\FinalniTestovi\Hoteli\Hoteli\obj\Debug\Hoteli.pdb

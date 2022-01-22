@@ -1,0 +1,7 @@
+C:\Users\emago\OneDrive\Radna površina\.NET web\Modul 3\Hoteli\Hoteli.Tests\obj\Debug\Hoteli.Tests.csprojAssemblyReference.cache
+C:\Users\emago\OneDrive\Radna površina\.NET web\Modul 3\Hoteli\Hoteli.Tests\obj\Debug\Hoteli.Tests.csproj.CoreCompileInputs.cache
+C:\Users\emago\OneDrive\Radna površina\.NET web\Modul 3\Hoteli\Hoteli.Tests\obj\Debug\Hoteli.Tests.csprojResolveAssemblyReference.cache
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli.Tests\obj\Debug\Hoteli.Tests.csproj.AssemblyReference.cache
+C:\Users\emago\OneDrive\Radna površina\Hoteli\Hoteli.Tests\obj\Debug\Hoteli.Tests.csproj.CoreCompileInputs.cache
+D:\FinalniTestovi\Hoteli\Hoteli.Tests\obj\Debug\Hoteli.Tests.csproj.AssemblyReference.cache
+D:\FinalniTestovi\Hoteli\Hoteli.Tests\obj\Debug\Hoteli.Tests.csproj.CoreCompileInputs.cache
